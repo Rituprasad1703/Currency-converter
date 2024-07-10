@@ -20,7 +20,7 @@ JavaScript
 ExchangeRatesAPI
 
 # Demo : 
-You can view the live demo of the project here: 
+You can view the live demo of the project here: https://rituprasad1703.github.io/Currency-convertor/
 
 # Acknowledgements :
 https://www.exchangerate-api.com/ for providing the exchange rate data.
