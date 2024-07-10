@@ -1,26 +1,26 @@
-##Currency Converter
+# Currency Converter
 
 
-#Description :
+# Description :
 This is a Currency Converter web application that allows users to convert amounts from one currency to another using real-time exchange rates. This application is built using HTML, CSS, and JavaScript, and it fetches exchange rates from https://www.exchangerate-api.com/
 
-#Features :
+# Features :
 Real-time Currency Conversion: Input the amount, select the source and target currencies, and get the conversion result.
 
-#Responsive Design : 
+# Responsive Design : 
 The application is fully responsive and works on various screen sizes.
 
-#Error Handling :
-Displays error messages for any issues faced during the conversion process.
+# Error Handling :
+Displays error messages for any issues faced during the conversion process (done using try,catch block in JS).
 
-#Technologies Used :
+# Technologies Used :
 HTML
 CSS
 JavaScript
 ExchangeRatesAPI
 
-#Demo : 
+# Demo : 
 You can view the live demo of the project here: 
 
-#Acknowledgements :
+# Acknowledgements :
 https://www.exchangerate-api.com/ for providing the exchange rate data.
